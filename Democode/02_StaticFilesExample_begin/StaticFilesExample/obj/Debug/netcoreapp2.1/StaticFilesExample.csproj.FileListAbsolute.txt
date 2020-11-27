@@ -1,0 +1,15 @@
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.deps.json
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.runtimeconfig.json
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.runtimeconfig.dev.json
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.dll
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.pdb
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.csprojAssemblyReference.cache
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.AssemblyInfoInputs.cache
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.AssemblyInfo.cs
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.csproj.CoreCompileInputs.cache
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.RazorAssemblyInfo.cache
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.RazorAssemblyInfo.cs
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.RazorTargetAssemblyInfo.cache
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.dll
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.pdb
+C:\Curso\20486\Luismi\Tareas\Mod03\Democode\02_StaticFilesExample_begin\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.genruntimeconfig.cache
